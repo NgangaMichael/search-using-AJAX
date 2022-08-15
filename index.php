@@ -11,8 +11,8 @@
 </head>
 <body>
 
-<div class="jumbotron text-center">
-  <h1>Live Search in Database</h1>
+<div class="jumbotron text-center bg-warning">
+  <h1 >Live Search in Database</h1>
 </div>
   
 <div class="container">
